@@ -5,8 +5,8 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Array- This is a list that contains any number of elements
-	* Object
-	* Method
+	* Object- This is something that has properties.
+	* Method- This is an action done in relation to your object.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
